@@ -1,5 +1,5 @@
 ---
-title: Shell Texturing Breakdown
+title: Shell Texturing Writeup
 tags:
  - graphics
  - shaders
