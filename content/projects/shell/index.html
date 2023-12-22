@@ -1,0 +1,36 @@
+---
+type: default
+layout: project
+---
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Shell Texturing</title>
+
+		<style>
+			body { margin: 0; }
+		</style>
+		 <link href="/fonts/fontawesome/css/all.min.css" rel="stylesheet">
+	</head>
+	<body>
+		<a href="/projects">
+			<button style="position: absolute; top: 50px; color: #CDF7F6; background-color: #58355E;border-radius:2px; border-style:none; margin:10px; font-size: 20px; cursor:pointer">
+				<i class="fa-solid fa-arrow-left"></i>
+			</button>
+		</a>
+		<button style="position: absolute; top: 90px; color: #CDF7F6; background-color: #58355E;border-radius:2px; border-style:none; margin:10px; font-size: 20px;cursor:pointer">
+			<i class="fa-solid fa-pen-to-square"></i>
+		</button>
+		<script type="importmap">
+			{
+			  "imports": {
+				"three": "/js/node_modules/three/build/three.module.js",
+				"three/": "/js/node_modules/three/",
+				"dat.gui": "/js/node_modules/dat.gui/build/dat.gui.module.js"
+			  }
+			}
+		</script>
+		<script type="module" src="./shell-texturing.js"></script>
+	</body>
+</html>
