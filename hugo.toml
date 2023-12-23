@@ -5,6 +5,9 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 staticDir = ['static']
+pluralizeListTitles = false
+
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -41,7 +44,7 @@ staticDir = ['static']
   updatedDatePrefix = "Updated"
 
   # set all headings to their default size (depending on browser settings)
-  # oneHeadingSize = true # default
+  oneHeadingSize = false # default
 
   # whether to show a page's estimated reading time
   # readingTime = false # default
@@ -66,7 +69,7 @@ staticDir = ['static']
   [languages.en.params]
     languageName = "English"
     title = "Carlos Conley"
-    subtitle = "A simple, retro theme for Hugo"
+    #subtitle = "A simple, retro theme for Hugo"
     owner = "Carlos Conley"
     keywords = ""
     copyright = ""

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Shell Texturing Writeup
 tags:
  - graphics

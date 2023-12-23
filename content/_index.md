@@ -1,6 +1,6 @@
 ---
+title: Carlos Conley
 framed: true
-
 ---
 
 # Hey there! I'm Carlos.
