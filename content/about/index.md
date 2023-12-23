@@ -4,11 +4,12 @@ title: About
 ---
 
 {{< rawhtml  >}}
-<div style="display:flex;">
+<link href="./assets/wrapper.css" rel="stylesheet">
+<div class="bounding">
 {{< /rawhtml >}}
-{{< image src="./assets/web-pfp-small.jpg" alt="Image of me" position="left" style="border-radius: 8px; height:35vh; display:inline;" >}}
+{{< image src="./assets/web-pfp-small.jpg" alt="Image of me" position="center" style="border-radius: 8px; height:35vh; display:inline;" >}}
 {{< rawhtml  >}}
-<div style="margin-left: 20px">
+<div class="description">
 {{< /rawhtml >}}
 
 I am currently getting my BS in CS at [The University of Illinois](https://cs.illinois.edu/). I will be rejoining [Figma](https://www.figma.com/about/) full time as a new grad software engineer. I have previously been a software engineering intern at State Farm and [dscout](https://dscout.com/).
