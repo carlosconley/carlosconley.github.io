@@ -12,7 +12,7 @@ title: About
 <div class="description">
 {{< /rawhtml >}}
 
-I am currently getting my BS in CS at [The University of Illinois](https://cs.illinois.edu/). I will be rejoining [Figma](https://www.figma.com/about/) full time as a new grad software engineer. I have previously been a software engineering intern at State Farm and [dscout](https://dscout.com/).
+I am currently getting my BS in CS at [The University of Illinois](https://cs.illinois.edu/). I will be rejoining [Figma](https://www.figma.com/about/) full time as a new grad software engineer. I have previously been a software engineering intern at [State Farm](https://rdc.statefarm/) and [dscout](https://dscout.com/).
 
 I enjoy taking a deeper look into computer graphics, systems programming, and how we can design more performant, maintable, and legible software.
 
