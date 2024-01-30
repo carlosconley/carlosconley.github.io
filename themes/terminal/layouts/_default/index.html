@@ -12,7 +12,7 @@
     {{ if .IsHome }}
       {{ $PageContext = .Site }}
     {{ end }}
-    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) }}
+    {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" "in" (slice $contentTypeName "projects")) }}
 
     {{ range $paginator.Pages }}
       <article class="post on-list">
@@ -41,7 +41,7 @@
           </span>
         {{ end }}
 
-        {{ partial "cover.html" . }}
+        <!--{{ partial "cover.html" . }} -->
 
         <div class="post-content">
           {{ if .Params.showFullContent }}
