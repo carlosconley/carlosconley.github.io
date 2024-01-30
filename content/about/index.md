@@ -37,16 +37,17 @@ Internal dashboard
 - SWE Intern | Frontend and Testing :: **dscout** (Su 2019)  
 Frontend bugs and interaction test suite
 
-### Pedagogy
+### Teaching
+- CS 340 | Intro to Computer Systems :: **UIUC** (Sp 2024)
 - CS 418 | Interactive Computer Graphics :: **UIUC** (Fa 2023)
-- CS 124 | Introduction to CS :: **UIUC** (2022 - 2023)
+- CS 124 | Intro to Computer Science :: **UIUC** (2022 - 2023)
 
 ### Other
 - Webdeveloper | Webflow and Zapier :: **Parallax** (Su 2021)
 
 ## Education
 - BS, Computer Science | Minor in Informatics :: **UIUC** (2020 - 2024)  
-*Coursework*: Distributed Systems, Operating Systems, Interactive and Production Computer Graphics, Communication Networks, Computer Architecture
+*Courses*: Distributed Systems, Operating Systems, Computer Graphics I & II, Communication Networks
 
 ### Honors
 - James Honor Scholar :: **UIUC** (2024)
@@ -54,4 +55,5 @@ Frontend bugs and interaction test suite
 - Scholarship Recipient :: [**HSF**](https://www.hsf.net/) (2020) 
 
 ## Projects
+- [PDF Raytracer](/projects/rust-raytracing/) (2024)
 - [Shell Texturing](/projects/shell-texturing/) (2023)
