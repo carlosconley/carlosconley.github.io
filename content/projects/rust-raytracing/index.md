@@ -16,7 +16,9 @@ date: 2024-01-19
 description: My rust implementation of Peter Shirley's [Raytracing in One Weekend Series](https://raytracing.github.io/), fit with additional geometry types, auto-exposure, and parallel processing. Repo [here](https://github.com/carlosconley/surely-raytracing/)
 
 ---
+# Github 
 
+All source code can be found here: https://github.com/carlosconley/surely-raytracing/
 ## Images from the project
 
 ### Final render of the first book
