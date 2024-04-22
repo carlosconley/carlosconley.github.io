@@ -51,7 +51,7 @@ Frontend bugs and interaction test suite
 
 ### Honors
 - James Honor Scholar :: **UIUC** (2024)
-- Dean's List :: **UIUC** (2024 - 2024)
+- Dean's List :: **UIUC** (2020 - 2024)
 - Scholarship Recipient :: [**HSF**](https://www.hsf.net/) (2020) 
 
 ## Projects
